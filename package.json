@@ -54,6 +54,9 @@
     }
   },
   "lint-staged": {
-    "projects/ngx-validators/src/lib/**/*.ts": ["tslint --fix", "prettier --write"]
+    "projects/ngx-validators/src/lib/**/*.ts": [
+      "tslint --fix",
+      "prettier --write"
+    ]
   }
 }
