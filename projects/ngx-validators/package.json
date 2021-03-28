@@ -1,0 +1,14 @@
+{
+  "name": "ngx-validators",
+  "version": "0.0.1",
+  "license": "MIT",
+  "homepage": "https://github.com/2YY/ngx-validators",
+  "repository": "https://github.com/2YY/ngx-validators",
+  "peerDependencies": {
+    "@angular/common": "^11.2.7",
+    "@angular/core": "^11.2.7"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}

@@ -1,5 +1,8 @@
 # NgxValidators
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/a3f6cad9a98434a86322/maintainability)](https://codeclimate.com/github/2YY/ngx-validators/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/a3f6cad9a98434a86322/test_coverage)](https://codeclimate.com/github/2YY/ngx-validators/test_coverage)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
 
 ## Development server
