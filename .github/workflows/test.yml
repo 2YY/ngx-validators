@@ -61,4 +61,4 @@ jobs:
           CC_TEST_REPORTER_ID: ${{ secrets.CC_TEST_REPORTER_ID }}
         with:
           coverageCommand: yarn run test -- --no-watch --no-progress --code-coverage --browsers=ChromeHeadlessCI
-          coverageLocations: ${{ github.workspace }}/coverage/ngx-br/lcov.info:lcov
+          coverageLocations: ${{ github.workspace }}/coverage/ngx-validators/lcov.info:lcov
