@@ -3,3 +3,5 @@
  */
 
 export * from './lib/ngx-validators.module';
+
+export { EmptyStringValidator } from './lib/validators/empty-string-validator.directive';
